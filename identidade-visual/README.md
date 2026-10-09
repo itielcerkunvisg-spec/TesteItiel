@@ -38,17 +38,21 @@ Premium e elegante: o dourado e o vinho dão o ar sofisticado; o rosa dá o acol
 ## Padrões de preço
 - Pacotes de 10 sessões exibidos como parcelas.
 - Preços em valores redondos (sem centavos), ex.: `10x R$ 80`.
-- Em promoções: colunas "Normal" (riscado) e "Outubro Rosa"/promo em destaque; selo grande com o % OFF no topo.
+- Em promoções: preço normal sem risco e "Outubro Rosa"/promo em destaque; selo grande com o % OFF no topo.
 - Legibilidade: nenhum texto abaixo de ~26px numa arte de 1080px de largura (rodapé incluso); valor final em destaque (maior, negrito, com fundo rosa).
 
+## Nome do procedimento
+- Usar **"Laser (fotodepilação)"** — não "Luz Intensa Pulsada".
+
 ## Modelo pronto
+- **Versão aprovada pela Paula (Outubro Rosa 2026):** `modelo-tabela/tabela-final-aprovada.html` → `tabela-newderm-outubro-rosa-final.png`.
 `modelo-tabela/tabela.html` (opção A), `opcao_b.html` (faixa vinho + cards) e `opcao_c.html` (selo circular + cupons) — Story 1080×1920, fontes locais em `modelo-tabela/fonts/`).
 Para exportar PNG em 2x: `cd modelo-tabela && npm i playwright-core && node render.js saida.png [arquivo.html]`
 (usa o Google Chrome instalado; ou defina `CHROME_PATH`).
 
 ## Comunicação e psicologia de venda (padrão das peças promocionais)
 - Hierarquia: 1º o desconto (% OFF), 2º o preço final, 3º a chamada para ação. O resto apoia.
-- Ancoragem: preço normal riscado ao lado do preço promocional.
+- Ancoragem: preço normal ("de 10x R$ X") ao lado do preço promocional, **sem risco** (preferência da Paula).
 - Ganho concreto: mostrar "economize R$ X" (total do pacote), que pesa mais que só a %.
 - Gancho de entrada: "a partir de 10x R$ 56" logo abaixo do título.
 - Urgência verdadeira: prazo real da campanha (ex.: "Só até 31 de outubro"). Nunca inventar escassez ("últimas vagas") nem prova social sem dados.
