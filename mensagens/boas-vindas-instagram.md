@@ -19,8 +19,17 @@ Ficamos felizes em ter você por aqui. Somos uma clínica de estética em Dourad
 Para o seu primeiro atendimento, preparamos um presente: vários tratamentos com até 50% de desconto. 💕
 Vamos marcar sua visita? Responda esta mensagem ou chame no WhatsApp (67) 99968-0240.
 
-## Opção 3 — Foco no convite
+## ✅ Opção 3 — Foco no convite (ESCOLHIDA PELA PAULA)
 Oi, [nome], que alegria ter você com a gente! 💕
 A New Derm fica em Dourados (Av. Presidente Vargas, 1695 · Medical Center, sala 912) e vai adorar receber sua visita.
 Novidade para quem chega agora: no primeiro atendimento você aproveita vários tratamentos com até 50% de desconto.
 Quer saber quais? Me responda aqui que eu te conto. 🦋
+
+## Como usar: resposta salva no Instagram (atalho "bv")
+1. Abra o Instagram da New Derm → Perfil → menu ☰ → **Ferramentas e controles para empresas** → **Respostas salvas** (o nome pode variar um pouco conforme a versão do app).
+   - Atalho alternativo: abra qualquer conversa no direct, toque no ícone de **respostas salvas** (balão com "...", perto do campo de texto) e em **+**.
+2. Toque em **+ / Nova resposta salva**.
+3. Em **Atalho**, escreva `bv`.
+4. Em **Mensagem**, cole a versão sem nome da Opção 3.
+5. Salve.
+6. Quando entrar um seguidor novo: abra o direct dele, digite `bv`, toque na sugestão que aparece e envie.
