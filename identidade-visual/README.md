@@ -45,3 +45,13 @@ Premium e elegante: o dourado e o vinho dão o ar sofisticado; o rosa dá o acol
 `modelo-tabela/tabela.html` (opção A), `opcao_b.html` (faixa vinho + cards) e `opcao_c.html` (selo circular + cupons) — Story 1080×1920, fontes locais em `modelo-tabela/fonts/`).
 Para exportar PNG em 2x: `cd modelo-tabela && npm i playwright-core && node render.js saida.png [arquivo.html]`
 (usa o Google Chrome instalado; ou defina `CHROME_PATH`).
+
+## Comunicação e psicologia de venda (padrão das peças promocionais)
+- Hierarquia: 1º o desconto (% OFF), 2º o preço final, 3º a chamada para ação. O resto apoia.
+- Ancoragem: preço normal riscado ao lado do preço promocional.
+- Ganho concreto: mostrar "economize R$ X" (total do pacote), que pesa mais que só a %.
+- Gancho de entrada: "a partir de 10x R$ 56" logo abaixo do título.
+- Urgência verdadeira: prazo real da campanha (ex.: "Só até 31 de outubro"). Nunca inventar escassez ("últimas vagas") nem prova social sem dados.
+- Destaque de decisão: selo dourado "★ Maior economia" no combo completo, que guia para o ticket maior.
+- Chamada para ação clara: bloco vinho com QR code do WhatsApp (wa.me/5567999680240) + telefone grande.
+- Tom emocional ligado à campanha (Outubro Rosa = autocuidado), sem perder a delicadeza da marca.
