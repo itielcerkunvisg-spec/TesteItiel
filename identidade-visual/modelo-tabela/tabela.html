@@ -70,6 +70,29 @@
   .combo{padding:16px 0}
   .card{margin-top:34px}
   .sec{margin-top:26px}
+  .logo{width:200px;margin-top:0}
+  .hero{margin-top:18px;width:100%;border-radius:36px;padding:20px 30px 22px;text-align:center;color:#fff;
+    background:linear-gradient(135deg,#EFA3B6 0%,#D96A8B 55%,#B8466A 100%);border:3px solid var(--gold-l);
+    box-shadow:0 14px 34px rgba(156,47,79,.28), inset 0 0 0 8px rgba(255,255,255,.12)}
+  .hero-top{display:flex;align-items:center;justify-content:center;gap:18px}
+  .hero-top span{font-family:"Great Vibes";font-size:92px;line-height:1}
+  .big{display:flex;align-items:center;justify-content:center;gap:18px;margin-top:-6px}
+  .pct{font-family:"Playfair Display";font-weight:700;font-size:230px;line-height:.95;letter-spacing:-4px;text-shadow:0 6px 0 rgba(122,30,60,.25)}
+  .off{font-family:"Playfair Display";font-weight:700;font-size:96px;line-height:1;padding:10px 22px;border:4px solid #fff;border-radius:22px;transform:rotate(-6deg)}
+  .hero-sub{font-size:32px;font-weight:600;letter-spacing:1px;margin-top:4px}
+  .title{margin-top:22px;font-family:"Playfair Display";font-weight:600;color:var(--wine);font-size:44px;text-align:center}
+  .title .ts{font-family:"Great Vibes";font-weight:400;color:var(--gold);font-size:58px;margin-right:6px}
+  .card{margin-top:18px;padding:12px 36px}
+  .th,.r{display:grid;grid-template-columns:1fr 210px 250px;align-items:center}
+  .th{font-family:"Playfair Display";font-style:italic;color:var(--wine);font-size:28px;padding:8px 0 12px;border-bottom:1.5px solid var(--rose-l)}
+  .th .o,.th .w,.r .o,.r .w{text-align:right}
+  .r{padding:16px 0;border-bottom:1px dashed rgba(229,154,174,.6)}
+  .r:last-child{border-bottom:none}
+  .r .n{display:flex;align-items:center;gap:14px;font-size:36px;font-weight:600;color:#5E3A45}
+  .r.c .n{font-family:"Playfair Display";font-style:italic;font-weight:500;font-size:30px;line-height:1.2}
+  .r .o{font-size:30px;color:#A07A86} .r .o s{text-decoration-color:#D9667F;text-decoration-thickness:2.5px}
+  .r .w{font-size:28px;color:var(--wine)} .r .w b{font-family:"Playfair Display";font-weight:700;font-size:46px}
+  .sec{margin-top:20px} .sec span{font-size:66px}
 </style>
 </head>
 <body>
@@ -139,36 +162,35 @@
 
 <div class="content">
   <img class="logo" src="../logo-newderm-dourado.png" alt="New Derm">
-  <div class="divider"><i></i><svg width="22" height="20"><use href="#heart"/></svg><i></i></div>
 
-  <div class="tag">
-    <svg width="26" height="38" viewBox="0 0 26 38"><path d="M13 20 C4 8 6 1 13 1 C20 1 22 8 13 20 L3 37 M13 20 L23 37" stroke="#fff" stroke-width="4.2" fill="none" stroke-linecap="round"/></svg>
-    Outubro Rosa · 30% OFF
+  <div class="hero">
+    <div class="hero-top">
+      <svg width="34" height="50" viewBox="0 0 26 38"><path d="M13 20 C4 8 6 1 13 1 C20 1 22 8 13 20 L3 37 M13 20 L23 37" stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round"/></svg>
+      <span>Outubro Rosa</span>
+      <svg width="34" height="50" viewBox="0 0 26 38"><path d="M13 20 C4 8 6 1 13 1 C20 1 22 8 13 20 L3 37 M13 20 L23 37" stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round"/></svg>
+    </div>
+    <div class="big"><span class="pct">30%</span><span class="off">OFF</span></div>
+    <div class="hero-sub">em todos os pacotes e combos</div>
   </div>
 
-  <div class="title-s">Epilação com</div>
-  <div class="title">Luz Intensa Pulsada</div>
+  <div class="title"><span class="ts">Epilação com</span> Luz Intensa Pulsada</div>
 
   <div class="card">
-    <div class="thead"><span>Pacotes (10 sessões)</span><span>Outubro Rosa</span></div>
-    <div class="row"><span class="n"><svg width="40" height="32"><use href="#bf"/></svg>Buço</span><span class="p"><div class="de">De: <s>10x R$ 75,90</s></div><div class="por">Por: 10x <b>R$ 52,90</b></div></span></div>
-    <div class="row"><span class="n"><svg width="40" height="32"><use href="#bf"/></svg>Axilas</span><span class="p"><div class="de">De: <s>10x R$ 108,90</s></div><div class="por">Por: 10x <b>R$ 75,90</b></div></span></div>
-    <div class="row"><span class="n"><svg width="40" height="32"><use href="#bf"/></svg>Virilha</span><span class="p"><div class="de">De: <s>10x R$ 152,90</s></div><div class="por">Por: 10x <b>R$ 106,90</b></div></span></div>
-    <div class="row"><span class="n"><svg width="40" height="32"><use href="#bf"/></svg>Meia perna</span><span class="p"><div class="de">De: <s>10x R$ 174,90</s></div><div class="por">Por: 10x <b>R$ 121,90</b></div></span></div>
-    <div class="row"><span class="n"><svg width="40" height="32"><use href="#bf"/></svg>Perna inteira</span><span class="p"><div class="de">De: <s>10x R$ 207,90</s></div><div class="por">Por: 10x <b>R$ 144,90</b></div></span></div>
+    <div class="th"><span class="n">Pacotes (10 sessões)</span><span class="o">Normal</span><span class="w">Outubro Rosa</span></div>
+    <div class="r"><span class="n"><svg width="38" height="30"><use href="#bf"/></svg>Buço</span><span class="o"><s>10x R$ 80</s></span><span class="w">10x <b>R$ 56</b></span></div>
+    <div class="r"><span class="n"><svg width="38" height="30"><use href="#bf"/></svg>Axilas</span><span class="o"><s>10x R$ 115</s></span><span class="w">10x <b>R$ 80</b></span></div>
+    <div class="r"><span class="n"><svg width="38" height="30"><use href="#bf"/></svg>Virilha</span><span class="o"><s>10x R$ 165</s></span><span class="w">10x <b>R$ 115</b></span></div>
+    <div class="r"><span class="n"><svg width="38" height="30"><use href="#bf"/></svg>Meia perna</span><span class="o"><s>10x R$ 185</s></span><span class="w">10x <b>R$ 129</b></span></div>
+    <div class="r"><span class="n"><svg width="38" height="30"><use href="#bf"/></svg>Perna inteira</span><span class="o"><s>10x R$ 220</s></span><span class="w">10x <b>R$ 154</b></span></div>
   </div>
 
   <div class="sec"><i></i><span>Combos</span><i></i></div>
 
-  <div class="card" style="margin-top:14px;padding-top:10px;padding-bottom:10px">
-    <div class="combo"><span class="n">Buço + Axilas</span>
-      <span class="p"><div class="de">De: <s>10x R$ 154,00</s></div><div class="por">Por: 10x <b>R$ 106,90</b></div></span></div>
-    <div class="combo"><span class="n">Buço + Axilas + Virilha</span>
-      <span class="p"><div class="de">De: <s>10x R$ 242,00</s></div><div class="por">Por: 10x <b>R$ 168,90</b></div></span></div>
-    <div class="combo"><span class="n">Buço + Axilas +<br>Virilha + Pernas</span>
-      <span class="p"><div class="de">De: <s>10x R$ 308,00</s></div><div class="por">Por: 10x <b>R$ 214,90</b></div></span></div>
+  <div class="card">
+    <div class="r c"><span class="n">Buço + Axilas</span><span class="o"><s>10x R$ 165</s></span><span class="w">10x <b>R$ 115</b></span></div>
+    <div class="r c"><span class="n">Buço + Axilas + Virilha</span><span class="o"><s>10x R$ 260</s></span><span class="w">10x <b>R$ 182</b></span></div>
+    <div class="r c"><span class="n">Buço + Axilas +<br>Virilha + Pernas</span><span class="o"><s>10x R$ 330</s></span><span class="w">10x <b>R$ 231</b></span></div>
   </div>
-
 </div>
 
 <div class="footer">
