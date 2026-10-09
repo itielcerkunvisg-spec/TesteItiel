@@ -42,6 +42,6 @@ Premium e elegante: o dourado e o vinho dão o ar sofisticado; o rosa dá o acol
 - Legibilidade: nenhum texto abaixo de ~26px numa arte de 1080px de largura (rodapé incluso); valor final em destaque (maior, negrito, com fundo rosa).
 
 ## Modelo pronto
-`modelo-tabela/tabela.html` (Story 1080×1920, fontes locais em `modelo-tabela/fonts/`).
-Para exportar PNG em 2x: `cd modelo-tabela && npm i playwright-core && node render.js saida.png`
+`modelo-tabela/tabela.html` (opção A), `opcao_b.html` (faixa vinho + cards) e `opcao_c.html` (selo circular + cupons) — Story 1080×1920, fontes locais em `modelo-tabela/fonts/`).
+Para exportar PNG em 2x: `cd modelo-tabela && npm i playwright-core && node render.js saida.png [arquivo.html]`
 (usa o Google Chrome instalado; ou defina `CHROME_PATH`).
