@@ -39,6 +39,7 @@ Premium e elegante: o dourado e o vinho dão o ar sofisticado; o rosa dá o acol
 - Pacotes de 10 sessões exibidos como parcelas.
 - Preços em valores redondos (sem centavos), ex.: `10x R$ 80`.
 - Em promoções: colunas "Normal" (riscado) e "Outubro Rosa"/promo em destaque; selo grande com o % OFF no topo.
+- Legibilidade: nenhum texto abaixo de ~26px numa arte de 1080px de largura (rodapé incluso); valor final em destaque (maior, negrito, com fundo rosa).
 
 ## Modelo pronto
 `modelo-tabela/tabela.html` (Story 1080×1920, fontes locais em `modelo-tabela/fonts/`).
