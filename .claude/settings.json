@@ -1,8 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "mcp__ClickUp__clickup_create_comment",
-      "mcp__ClickUp__clickup_create_task_comment"
+      "mcp__ClickUp"
+    ],
+    "deny": [
+      "mcp__ClickUp__clickup_delete_task",
+      "mcp__ClickUp__clickup_delete_comment"
     ]
   }
 }
