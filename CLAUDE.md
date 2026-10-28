@@ -23,17 +23,18 @@ O Itiel confirma o envio na conversa em que ele está; a sessão que executa só
 
 ## Agentes em nuvem (Itiel, 21/10/2026)
 
-Quatro sessões; cada uma trata o que é dela e repassa o resto à parceira certa. Encontrar a
+Cinco sessões (títulos ☁️ N1–N5 AG, desde 28/10/2026; antes "🚨 Uso em nuvem (X)"); cada uma trata o que é dela e repassa o resto à parceira certa. Encontrar a
 parceira pelo título com `list_sessions` (os IDs mudam quando a sessão é recriada). Os
 agentes do Mac mini (📌 P00 a P06) e o papel de cada um estão na memória
 `agentes-papeis.md` do Mac mini.
 
-- **🚨 Uso em nuvem (WhattsApp):** lê as mensagens do WhatsApp do Itiel, contextualiza e
+- **☁️ N1 AG WhatsApp:** lê as mensagens do WhatsApp do Itiel, contextualiza e
   prepara as respostas.
-- **🚨 Uso em nuvem (Email):** analisa as 3 caixas de e-mail; sugere arquivar, mandar spam
+- **☁️ N2 AG Email:** analisa as 3 caixas de e-mail; sugere arquivar, mandar spam
   para a lixeira e responder o que tem contexto. Assunto da Inpasa vai para a sessão Inpasa.
-- **🚨 Uso em nuvem (Inpasa):** trata assuntos da Inpasa; é backup da P03 do Mac mini.
-- **🚨 Uso em nuvem (Outros):** assuntos gerais.
+- **☁️ N3 AG Inpasa:** trata assuntos da Inpasa; é backup da P03 do Mac mini.
+- **☁️ N4 AG Outros:** assuntos gerais.
+- **☁️ N5 AG Instagram:** mídias digitais do Itiel no Instagram; publica só com o "pode publicar".
 
 Imagens desenhadas saem do Codex (ChatGPT) pelo Mac mini (`~/bin/gerar_imagem.sh`); pedir
 pela ponte do Michel.
