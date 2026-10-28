@@ -25,14 +25,15 @@ O Itiel confirma o envio na conversa em que ele está; a sessão que executa só
 
 Cinco sessões (títulos ☁️ AG-N1 a AG-N5, desde 28/10/2026; antes "🚨 Uso em nuvem (X)"); cada uma trata o que é dela e repassa o resto à parceira certa. Encontrar a
 parceira pelo título com `list_sessions` (os IDs mudam quando a sessão é recriada). Os
-agentes do Mac mini (📌 P00 a P06) e o papel de cada um estão na memória
-`agentes-papeis.md` do Mac mini.
+agentes do Mac mini (🖥️ AG-00 a AG-09 de área, 🤖 AG-10 a AG-13 produtos; caixas da ponte p00…p13,
+p01b) e o papel de cada um estão na memória `agentes-papeis.md` do Mac mini. Impressão 3D = 🖥️ AG-09
+(caixa p09); NUCLEON = 🤖 AG-13 (caixa p13).
 
 - **☁️ AG-N1 WhatsApp:** lê as mensagens do WhatsApp do Itiel, contextualiza e
   prepara as respostas.
 - **☁️ AG-N2 Email:** analisa as 3 caixas de e-mail; sugere arquivar, mandar spam
   para a lixeira e responder o que tem contexto. Assunto da Inpasa vai para a sessão Inpasa.
-- **☁️ AG-N3 Inpasa:** trata assuntos da Inpasa; é backup da P03 do Mac mini.
+- **☁️ AG-N3 Inpasa:** trata assuntos da Inpasa; é backup da AG-03 do Mac mini.
 - **☁️ AG-N4 Outros:** assuntos gerais.
 - **☁️ AG-N5 Instagram:** mídias digitais do Itiel no Instagram; publica só com o "pode publicar".
 
