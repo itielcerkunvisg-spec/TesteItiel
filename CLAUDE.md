@@ -23,18 +23,18 @@ O Itiel confirma o envio na conversa em que ele está; a sessão que executa só
 
 ## Agentes em nuvem (Itiel, 21/10/2026)
 
-Cinco sessões (títulos ☁️ N1–N5 AG, desde 28/10/2026; antes "🚨 Uso em nuvem (X)"); cada uma trata o que é dela e repassa o resto à parceira certa. Encontrar a
+Cinco sessões (títulos ☁️ AG-N1 a AG-N5, desde 28/10/2026; antes "🚨 Uso em nuvem (X)"); cada uma trata o que é dela e repassa o resto à parceira certa. Encontrar a
 parceira pelo título com `list_sessions` (os IDs mudam quando a sessão é recriada). Os
 agentes do Mac mini (📌 P00 a P06) e o papel de cada um estão na memória
 `agentes-papeis.md` do Mac mini.
 
-- **☁️ N1 AG WhatsApp:** lê as mensagens do WhatsApp do Itiel, contextualiza e
+- **☁️ AG-N1 WhatsApp:** lê as mensagens do WhatsApp do Itiel, contextualiza e
   prepara as respostas.
-- **☁️ N2 AG Email:** analisa as 3 caixas de e-mail; sugere arquivar, mandar spam
+- **☁️ AG-N2 Email:** analisa as 3 caixas de e-mail; sugere arquivar, mandar spam
   para a lixeira e responder o que tem contexto. Assunto da Inpasa vai para a sessão Inpasa.
-- **☁️ N3 AG Inpasa:** trata assuntos da Inpasa; é backup da P03 do Mac mini.
-- **☁️ N4 AG Outros:** assuntos gerais.
-- **☁️ N5 AG Instagram:** mídias digitais do Itiel no Instagram; publica só com o "pode publicar".
+- **☁️ AG-N3 Inpasa:** trata assuntos da Inpasa; é backup da P03 do Mac mini.
+- **☁️ AG-N4 Outros:** assuntos gerais.
+- **☁️ AG-N5 Instagram:** mídias digitais do Itiel no Instagram; publica só com o "pode publicar".
 
 Imagens desenhadas saem do Codex (ChatGPT) pelo Mac mini (`~/bin/gerar_imagem.sh`); pedir
 pela ponte do Michel.
