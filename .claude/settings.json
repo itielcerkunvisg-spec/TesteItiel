@@ -1,8 +1,14 @@
 {
   "permissions": {
     "allow": [
-      "mcp__ClickUp__clickup_create_comment",
-      "mcp__ClickUp__clickup_create_task_comment"
+      "mcp__ClickUp",
+      "mcp__Google_Calendar__create_event",
+      "mcp__Google_Calendar__update_event",
+      "mcp__Google_Calendar__delete_event"
+    ],
+    "deny": [
+      "mcp__ClickUp__clickup_delete_task",
+      "mcp__ClickUp__clickup_delete_comment"
     ]
   }
 }
