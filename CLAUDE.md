@@ -41,7 +41,9 @@ Regra do "dedinho" (Itiel, 29/10/2026): sessão com assunto pendente que precisa
 decisão, resposta) põe no FIM do próprio título (`set_session_title`) o 👉 e os 5 ou 6 primeiros
 caracteres do assunto com reticências (ex.: "☁️ AG-N2 Email 👉 Rembe…"). O 👉 fica até o assunto ser
 concluído: concluído = foi para um card do ClickUp (criado, atualizado ou com a data mudada). Quando
-achar que acabou, pode perguntar ao Itiel; confirmado (ou card feito), tira o 👉 e o trecho.
+achar que acabou, pode perguntar ao Itiel; confirmado (ou card feito), tira o 👉 e o trecho. Frases do Itiel como
+"esse ponto está finalizado", "essa situação está concluída", "tratamos até aqui hoje" ou "por hoje isso
+está concluído" encerram o assunto de momento: tirar na hora o 👉 e o trecho, mesmo sem card.
 
 Imagens desenhadas saem do Codex (ChatGPT) pelo Mac mini (`~/bin/gerar_imagem.sh`); pedir
 pela ponte do Michel.
