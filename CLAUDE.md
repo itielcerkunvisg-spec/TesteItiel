@@ -37,6 +37,10 @@ p01b) e o papel de cada um estão na memória `agentes-papeis.md` do Mac mini. I
 - **☁️ AG-N4 Outros:** assuntos gerais.
 - **☁️ AG-N5 Instagram:** mídias digitais do Itiel no Instagram; publica só com o "pode publicar".
 
+Regra do "dedinho" (Itiel, 29/10/2026): sessão com ação pendente que precisa do Itiel (aprovação,
+decisão, resposta) põe 👉 no FIM do próprio título (`set_session_title`); quando ele interagir pela
+primeira vez nela, tira o 👉.
+
 Imagens desenhadas saem do Codex (ChatGPT) pelo Mac mini (`~/bin/gerar_imagem.sh`); pedir
 pela ponte do Michel.
 
