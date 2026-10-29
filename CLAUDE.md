@@ -37,9 +37,11 @@ p01b) e o papel de cada um estão na memória `agentes-papeis.md` do Mac mini. I
 - **☁️ AG-N4 Outros:** assuntos gerais.
 - **☁️ AG-N5 Instagram:** mídias digitais do Itiel no Instagram; publica só com o "pode publicar".
 
-Regra do "dedinho" (Itiel, 29/10/2026): sessão com ação pendente que precisa do Itiel (aprovação,
-decisão, resposta) põe 👉 no FIM do próprio título (`set_session_title`); quando ele interagir pela
-primeira vez nela, tira o 👉.
+Regra do "dedinho" (Itiel, 29/10/2026): sessão com assunto pendente que precisa do Itiel (aprovação,
+decisão, resposta) põe no FIM do próprio título (`set_session_title`) o 👉 e os 5 ou 6 primeiros
+caracteres do assunto com reticências (ex.: "☁️ AG-N2 Email 👉 Rembe…"). O 👉 fica até o assunto ser
+concluído: concluído = foi para um card do ClickUp (criado, atualizado ou com a data mudada). Quando
+achar que acabou, pode perguntar ao Itiel; confirmado (ou card feito), tira o 👉 e o trecho.
 
 Imagens desenhadas saem do Codex (ChatGPT) pelo Mac mini (`~/bin/gerar_imagem.sh`); pedir
 pela ponte do Michel.
