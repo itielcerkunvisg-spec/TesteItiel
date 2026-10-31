@@ -37,13 +37,19 @@ p01b) e o papel de cada um estão na memória `agentes-papeis.md` do Mac mini. I
 - **☁️ AG-N4 Outros:** assuntos gerais.
 - **☁️ AG-N5 Instagram:** mídias digitais do Itiel no Instagram; publica só com o "pode publicar".
 
-Regra do "dedinho" (Itiel, 29/10/2026): sessão com assunto pendente que precisa do Itiel (aprovação,
-decisão, resposta) põe no FIM do próprio título (`set_session_title`) o 👉 e os 5 ou 6 primeiros
-caracteres do assunto com reticências (ex.: "☁️ AG-N2 Email 👉 Rembe…"). O 👉 fica até o assunto ser
-concluído: concluído = foi para um card do ClickUp (criado, atualizado ou com a data mudada). Quando
-achar que acabou, pode perguntar ao Itiel; confirmado (ou card feito), tira o 👉 e o trecho. Frases do Itiel como
-"esse ponto está finalizado", "essa situação está concluída", "tratamos até aqui hoje" ou "por hoje isso
-está concluído" encerram o assunto de momento: tirar na hora o 👉 e o trecho, mesmo sem card.
+Regra do "dedinho" (Itiel, 29/10/2026, ajustada em 30/10/2026): a sessão põe no FIM do próprio título
+(`set_session_title`) o 👉 assim que COMEÇA a tratar um assunto trazido pelo Itiel, antes da primeira
+ferramenta. Cada assunto aberto vem depois do 👉 com até 5 caracteres e reticências, separados por espaço
+(ex.: "☁️ AG-N2 Email 👉 Rembe… Gleys…"); um único 👉 para todos. Um assunto só sai quando o Itiel disser
+que AQUELE está finalizado, concluído ou encerrado por hoje ("esse ponto está finalizado", "essa situação
+está concluída", "tratamos até aqui hoje", "por hoje isso está concluído"); a sessão nunca tira por conta
+própria, mas pode perguntar se acabou. Sem assunto aberto, sai o 👉.
+
+Identidade visual (Itiel, 30/10/2026; Instagram pessoal confirmado em 31/10/2026): toda peça nova, inclusive
+os carrosséis do Instagram pessoal do Itiel, sai no padrão escuro da ICG (fundo #0A1628, laranja #F07C1C,
+título serifado branco com traço laranja, logo ICG L11 branco); nunca fundo branco ou título azul. O padrão
+claro da Inpasa só vale para material existente da Inpasa. Exceção: peças da New Derm seguem
+`identidade-visual/README.md`.
 
 Imagens desenhadas saem do Codex (ChatGPT) pelo Mac mini (`~/bin/gerar_imagem.sh`); pedir
 pela ponte do Michel.
