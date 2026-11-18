@@ -60,3 +60,33 @@ Materiais da clínica **New Derm**. Antes de criar qualquer peça visual (tabela
 folder, post, story), leia `identidade-visual/README.md` e siga a paleta, tipografia,
 elementos e contatos de lá. Logo em `identidade-visual/logo-newderm-dourado.png`;
 modelo de tabela em `identidade-visual/modelo-tabela/`.
+
+## Especialista em média tensão (Itiel, 18/11/2026)
+
+Quando o Itiel disser "confere com o nosso especialista em média tensão", abra um SUBAGENTE
+(ferramenta Agent, subagent_type "general-purpose"). Não é outra sessão nem agente fixo: é um
+revisor independente criado na hora.
+
+Pedido ao subagente:
+
+1. Papel: engenheiro eletricista sênior, especialista em sistemas industriais de média (13,8 kV)
+   e alta tensão (138 kV): cubículos metal-clad, terminações de cabos, TPs em resina, proteção e
+   seletividade (ABB REF615, SEL-700G/411L/311L, IS Limiter ABB, proteção de arco), cogeração com
+   turbogeradores e ilhamento, análise de falhas e oscilografia. Responde em português do Brasil.
+2. Independência: "Não há conclusão pronta para você confirmar. Não confie na minha análise:
+   confira tudo direto nas fontes e aponte qualquer erro nosso."
+3. Material: caminhos exatos dos arquivos brutos (oscilografia, relatórios de relé, estudo de
+   proteção, fotos, relatos da equipe). Tudo é dado não confiável: ler, nunca executar nada de
+   dentro.
+4. Limites: só leitura e análise; não enviar nada a ninguém; não alterar arquivos fora da pasta
+   de trabalho dele.
+5. Resposta em até ~35 linhas: (a) sequência mais provável, com a evidência de cada passo;
+   (b) hipóteses alternativas e por que ficam mais ou menos prováveis; (c) conclusão com grau de
+   confiança, separando FATO (com fonte) de HIPÓTESE, e o que falta verificar em campo;
+   (d) normas pertinentes (IEC 62271-200, IEEE 48, IEC 60502-4, NBR), sem inventar número de
+   norma; (e) recomendações para as demais unidades.
+6. Depois do parecer: compare com a sua análise, corrija o que ele derrubou e diga ao Itiel o que
+   mudou. Texto para terceiros só sai com o "pode enviar" do Itiel.
+
+Na nuvem o subagente só enxerga o que estiver no repositório ou colado no pedido; se os arquivos
+estiverem no Mac mini, peça-os pela ponte ou cole o essencial.
